@@ -1,0 +1,46 @@
+ul {
+    list-style-type: none;
+}
+#TB {
+    background-color: aqua;
+    height: 150%;
+}
+#adminli {
+    line-height: 400%;
+}
+li a {
+    color: rgb(45, 44, 44);
+    font-weight: bold;
+}
+a:hover {
+    color: aqua;
+}
+.num {
+    color: rgb(255, 255, 255);
+    margin-top: 10px;
+    padding: 8px;
+    border-radius: 100px;
+    background-color: darkslateblue;
+}
+.login {
+    max-width: 60%;
+    margin: auto 200px;
+}
+.contact {
+    padding: 20px;
+    /* display: flex;
+    justify-content: space-between; */
+}
+.cx {
+    float: left;
+}
+#detaildes {
+    padding: 30px;
+}
+.dash .col-md-5 {
+    background-color: rgb(186, 220, 249);
+    border-radius: 10px;
+    margin-left: 45px;
+    padding: 30px;
+    text-align: center;
+}
